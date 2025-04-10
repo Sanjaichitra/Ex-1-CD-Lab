@@ -65,8 +65,8 @@ int main() {
 ```
 
 # OUTPUT
+![Screenshot 2025-04-10 103345](https://github.com/user-attachments/assets/f8fd2a07-6f5c-4e32-a890-a0743bdb6edb)
 
-![Screenshot 2024-10-08 142229](https://github.com/user-attachments/assets/fc4f95fc-5bde-4130-8f63-70d2c68bd368)
 
 
 # RESULT
