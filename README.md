@@ -70,6 +70,7 @@ int main() {
 # OUTPUT
 ![Screenshot 2025-04-10 103345](https://github.com/user-attachments/assets/f8fd2a07-6f5c-4e32-a890-a0743bdb6edb)
 
+![Screenshot 2025-04-10 104906](https://github.com/user-attachments/assets/6d371a46-5d95-4b3d-9b10-94eafac01bb9)
 
 
 # RESULT
